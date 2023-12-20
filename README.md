@@ -10,6 +10,8 @@ Online training and webinars have become essential tools for education and capac
 
 Before conducting online training, it is crucial to assess internet availability and quality in the target area. Tools like Speedtest.net (https://www.speedtest.net/) can help participants check their internet speed and stability. Conducting a network assessment will aid in understanding potential challenges and finding solutions.
 
+https://github.com/romeoplat/Handbook-for-Effective-Online-Training-in-Post-Conflict-or-Low-Internet-Areas/blob/main/Screenshot%202023-12-20%20at%2017.06.42.png
+
 ### 1.2 Selecting the Right Platform:
 
 Choosing a suitable platform is essential for a successful training experience. In low-internet areas, platforms that offer offline functionalities and accommodate unstable connections are ideal. 
